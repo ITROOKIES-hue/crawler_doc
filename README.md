@@ -1,4 +1,4 @@
-# 传智播客python爬虫课程
+# python爬虫
 
 <img src="images/0.jpg" width = "100%" /> 
 
